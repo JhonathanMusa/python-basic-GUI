@@ -1,2 +1,2 @@
-# python-basic-GUI
+# Python-basic-GUI
 Basic GUI using python and sqlite3
